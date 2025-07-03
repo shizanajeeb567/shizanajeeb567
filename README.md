@@ -1,26 +1,23 @@
-<h2 align="center" style="color:#B57EDC;">Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <div style="background-color: #E6E6FA; padding: 10px 15px; border-radius: 10px;">JavaScript (ES6+)</div>
-  <div style="background-color: #D8BFD8; padding: 10px 15px; border-radius: 10px;">TypeScript</div>
-  <div style="background-color: #DDA0DD; padding: 10px 15px; border-radius: 10px;">Express.js</div>
-  <div style="background-color: #E0BBE4; padding: 10px 15px; border-radius: 10px;">MongoDB & Mongoose</div>
-  <div style="background-color: #CBAACB; padding: 10px 15px; border-radius: 10px;">JWT Authentication</div>
-  <div style="background-color: #BFA2DB; padding: 10px 15px; border-radius: 10px;">Postman</div>
-  <div style="background-color: #C3B1E1; padding: 10px 15px; border-radius: 10px;">Git & GitHub</div>
-  <div style="background-color: #E5C3D1; padding: 10px 15px; border-radius: 10px;">Docker</div>
-  <div style="background-color: #F1D4E5; padding: 10px 15px; border-radius: 10px;">Node.js</div>
-  <div style="background-color: #EADCF7; padding: 10px 15px; border-radius: 10px;">React</div>
-  <div style="background-color: #D8E2DC; padding: 10px 15px; border-radius: 10px;">PostgreSQL</div>
-  <div style="background-color: #FFE5EC; padding: 10px 15px; border-radius: 10px;">Angular</div>
-  <div style="background-color: #FBE4FF; padding: 10px 15px; border-radius: 10px;">VS Code</div>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-authentication-ff9f1c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-F56935?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git & GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## Contact
-
+##  Contact  
 You can reach me at:  
-**<a href="mailto:shizanajeeb90@gmail.com">shizanajeeb90@gmail.com</a>**
+**[shizanajeeb90@gmail.com](mailto:shizanajeeb90@gmail.com)**
