@@ -1,32 +1,38 @@
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-authentication-ff9f1c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-F56935?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td><code style="background-color:#f7f7f7; padding: 6px 12px; border-radius: 6px;">JavaScript (ES6+)</code></td>
+    <td><code style="background-color:#f0f0ff; padding: 6px 12px; border-radius: 6px;">TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><code style="background-color:#fdf5ff; padding: 6px 12px; border-radius: 6px;">Express.js</code></td>
+    <td><code style="background-color:#e5ffe5; padding: 6px 12px; border-radius: 6px;">MongoDB & Mongoose</code></td>
+  </tr>
+  <tr>
+    <td><code style="background-color:#fff8dc; padding: 6px 12px; border-radius: 6px;">JWT Authentication</code></td>
+    <td><code style="background-color:#fff0f5; padding: 6px 12px; border-radius: 6px;">Postman</code></td>
+  </tr>
+  <tr>
+    <td><code style="background-color:#f0f8ff; padding: 6px 12px; border-radius: 6px;">Git & GitHub</code></td>
+    <td><code style="background-color:#e6f7ff; padding: 6px 12px; border-radius: 6px;">Docker</code></td>
+  </tr>
+  <tr>
+    <td><code style="background-color:#f5fffa; padding: 6px 12px; border-radius: 6px;">Node.js</code></td>
+    <td><code style="background-color:#fff5e6; padding: 6px 12px; border-radius: 6px;">React</code></td>
+  </tr>
+  <tr>
+    <td><code style="background-color:#e0ffff; padding: 6px 12px; border-radius: 6px;">PostgreSQL</code></td>
+    <td><code style="background-color:#fbefff; padding: 6px 12px; border-radius: 6px;">VS Code</code></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-##  Contact  
+## Contact  
 You can reach me at:  
 **[shizanajeeb90@gmail.com](mailto:shizanajeeb90@gmail.com)**
