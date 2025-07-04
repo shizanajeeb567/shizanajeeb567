@@ -47,4 +47,4 @@
 
 ## Contact  
 You can reach me at:  
-shizanajeeb90@gmail.com](mailto:shizanajeeb90@gmail.com)
+shizanajeeb90@gmail.com
