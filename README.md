@@ -1,3 +1,5 @@
+# 👋 Welcome to My Profile!
+
 I'm **Shiza Najeeb**, a Full Stack Developer and Software Engineer.  
 I specialize in building modern, scalable applications — from intuitive frontends to powerful backends.  
 My passion lies in solving real-world problems through clean code, creative UI, and smart systems.  
@@ -52,13 +54,14 @@ Always learning. Always improving.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shizanajeeb90&show_icons=true&theme=react&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shizanajeeb567&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizanajeeb90&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizanajeeb567&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+---
 
 ## 📬 Contact Me
 
