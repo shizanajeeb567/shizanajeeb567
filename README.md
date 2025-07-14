@@ -49,6 +49,17 @@ Always learning. Always improving.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shizanajeeb90&show_icons=true&theme=react&hide_title=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizanajeeb90&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+
 ## 📬 Contact Me
 
 - 📧 Email: [shizanajeeb90@gmail.com](mailto:shizanajeeb90@gmail.com)  
