@@ -7,9 +7,9 @@ Always learning. Always improving.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### ✨ Programming & Core Concepts
+### Programming & Core Concepts
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,7 @@ Always learning. Always improving.
   <img src="https://img.shields.io/badge/Data%20Structures-ff6f61?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🗄Databases
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -27,7 +27,7 @@ Always learning. Always improving.
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🛠️ Frontend & Backend
+### Frontend & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -35,7 +35,7 @@ Always learning. Always improving.
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -43,7 +43,7 @@ Always learning. Always improving.
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-### 🤖 AI & Research
+### AI & Research
 <p align="left">
   <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Model%20Training-800080?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -57,7 +57,7 @@ Always learning. Always improving.
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
-- 📧 Email: [shizanajeeb90@gmail.com](mailto:shizanajeeb90@gmail.com)  
-- 💼 LinkedIn: [Shiza Najeeb](https://www.linkedin.com/in/shiza-najeeb-8bb26a2b4/)
+- Email: [shizanajeeb90@gmail.com](mailto:shizanajeeb90@gmail.com)  
+- LinkedIn: [Shiza Najeeb](https://www.linkedin.com/in/shiza-najeeb-8bb26a2b4/)
