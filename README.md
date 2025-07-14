@@ -19,7 +19,7 @@ Always learning. Always improving.
   <img src="https://img.shields.io/badge/Data%20Structures-ff6f61?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 
-### 🗄Databases
+### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
