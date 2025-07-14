@@ -1,4 +1,4 @@
-# 👋 Welcome to My Profile!
+# Introduction:
 
 I'm **Shiza Najeeb**, a Full Stack Developer and Software Engineer.  
 I specialize in building modern, scalable applications — from intuitive frontends to powerful backends.  
